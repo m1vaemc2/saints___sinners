@@ -5,6 +5,8 @@ permalink: /writing/
 category_name: writing
 
 ---
+
+![2019-11-06-885754.png](https://m1vaemc2.github.io/saints___sinners/assets/2019-11-06-885754.png)
 <!--
 
 Set the front matter:
