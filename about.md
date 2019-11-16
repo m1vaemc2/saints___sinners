@@ -1,9 +1,9 @@
 ---
-layout: page
-title: About
-permalink: /about/
----
+layout: home
+title: SaintOrSinner
+permalink: /SaintOrSinner/
 
+---
 A simple and elegant theme for Jekyll and GitHub Pages.
 
 ### Features:
